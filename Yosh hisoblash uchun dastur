@@ -1,0 +1,3 @@
+a = int(input("Joriy yilni kiriting:")
+b = int(input("Tug`ilgan yilingizni kiriting:")
+print(a - b)
